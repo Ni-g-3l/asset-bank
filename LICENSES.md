@@ -16,7 +16,7 @@ Do not use this asset until licensing has been clarified.
 
 ### Baked
 
-* [Hairy Monkey](geo/baked/geo_bake/hairy_monkey.abc) - Maxime Cots - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* [Hairy Monkey](geo/animated/geo_ani_hairy_monkey.abc) - Maxime Cots - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Images
 
