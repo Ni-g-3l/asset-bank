@@ -39,3 +39,8 @@ Do not use this asset until licensing has been clarified.
 * [Jellyfish - Cute Animal Vectors](img/vectors/img_vec_jellyfish.svg) - reganjiang - [Source](https://www.svgrepo.com/svg/530184/jellyfish) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * [Penguin - Cute Animal Vectors](img/vectors/img_vec_penguin.svg) - reganjiang - [Source](https://www.svgrepo.com/svg/530185/penguin) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * [Squirrel - Cute Animal Vectors](img/vectors/img_vec_squirrel.svg) - reganjiang - [Source](https://www.svgrepo.com/svg/530192/squirrel) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## Videos
+
+* [Plane](vid/vid_plane.mp4) - Tetsuaki Baba - [Source](https://www.pexels.com/video/an-airplane-flying-beneath-the-thick-clouds-formation-in-the-air-3572188/) - [Pexels License](https://www.pexels.com/license/)
+* [SkateBoard](vid/vid_skateboard.mkv) - CottonBro Studio - [Source](https://www.pexels.com/video/a-reflection-of-a-building-in-a-puddle-4935665/) - [Pexels License](https://www.pexels.com/license/)
