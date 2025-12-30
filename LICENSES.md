@@ -12,6 +12,12 @@ Do not use this asset until licensing has been clarified.
 
 ----
 
+## Geometry
+
+### Baked
+
+* [Hairy Monkey](geo/baked/geo_bake/hairy_monkey.abc) - Maxime Cots - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Images
 
 * [Agen 327 Operation Barbershot - Official movie poster](img/img_agent_327_chair.png) - Blender Studio - [Source](https://studio.blender.org/projects/agent-327/59149f99bb3ea1398f73251b/?asset=3066) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
