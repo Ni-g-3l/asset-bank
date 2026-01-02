@@ -46,6 +46,11 @@ Do not use this asset until licensing has been clarified.
 * [Penguin - Cute Animal Vectors](img/vectors/img_vec_penguin.svg) - reganjiang - [Source](https://www.svgrepo.com/svg/530185/penguin) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * [Squirrel - Cute Animal Vectors](img/vectors/img_vec_squirrel.svg) - reganjiang - [Source](https://www.svgrepo.com/svg/530192/squirrel) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+## Musics
+
+* [Language](music/music_dubstep_upbeat.mp3) - YUTY - [Source](https://www.jamendo.com/track/1403281/language) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* [Soul Hop Music](music/music_urban_hiphop.mp3) - SEVENNOTES - [Source](https://www.jamendo.com/track/2290117/soul-hop-music) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Videos
 
 * [Plane](vid/vid_plane.mp4) - Tetsuaki Baba - [Source](https://www.pexels.com/video/an-airplane-flying-beneath-the-thick-clouds-formation-in-the-air-3572188/) - [Pexels License](https://www.pexels.com/license/)
