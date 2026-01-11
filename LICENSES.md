@@ -45,6 +45,10 @@ Do not use this asset until licensing has been clarified.
 * [Playing Cards](img/sequences/playing_cards) - Volker Thimm -[Source](https://www.pexels.com/video/a-jack-of-clubs-card-and-poker-chips-on-a-gambling-table-15800853/) - [Pexels License](https://www.pexels.com/license/)
 * [Ski Slope](img/sequences/playing_cards) - Adrien Jacta - [Source](https://www.pexels.com/video/ski-montagne-skier-piste-de-ski-4274798/) - [Pexels License](https://www.pexels.com/license/)
 
+### Misc
+
+* [All CheckerBoard](img/misc/img_misc_checkerboard_*.png) - Maxime Cots - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ### Vectors
 
 * [Crocodile - Cute Animal Vectors](img/vectors/img_vec_crocodile.svg) - reganjiang - [Source](https://www.svgrepo.com/svg/530196/crocodile) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
