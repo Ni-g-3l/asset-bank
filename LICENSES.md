@@ -56,6 +56,12 @@ Do not use this asset until licensing has been clarified.
 * [Penguin - Cute Animal Vectors](img/vectors/img_vec_penguin.svg) - reganjiang - [Source](https://www.svgrepo.com/svg/530185/penguin) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * [Squirrel - Cute Animal Vectors](img/vectors/img_vec_squirrel.svg) - reganjiang - [Source](https://www.svgrepo.com/svg/530192/squirrel) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+## Misc
+
+### Fonts
+
+* [Archivo](misc/font_archivo) - Gatti & Omnibus-Type Team - [Source](https://www.omnibus-type.com/fonts/archivo/) - [SIL Open Font License, 1.1](https://openfontlicense.org/)
+
 ## Musics
 
 * [Language](music/music_dubstep_upbeat.mp3) - YUTY - [Source](https://www.jamendo.com/track/1403281/language) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
