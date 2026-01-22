@@ -28,6 +28,9 @@ Do not use this asset until licensing has been clarified.
 * [Spring - Official movie poster](img/img_spring.png) - Blender Studio - [Source](https://studio.blender.org/projects/spring/gallery/?asset=909) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * [Sprite Fright - Official movie poster](img/img_sprite_fright.png) - Blender Studio - [Source](https://studio.blender.org/projects/sprite-fright/3a17a0f96e7038/?asset=5448) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * [Wing It - Official movie poster](img/img_wing_it.png) - Blender Studio - [Source](https://studio.blender.org/projects/wing-it/3c402f7c9ab362/?asset=7022) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* [New York Cab](img/img_newyork.jpg) - Ines Azevedo - [Source](https://unsplash.com/photos/cars-on-road-in-city-during-daytime-KQJtepzgfXI) - [Unsplash License](https://unsplash.com/license)
+* [Winter Montains](img/img_montains.jpg) - Tim Stief - [Source](https://unsplash.com/photos/body-of-water-and-snow-covered-mountains-during-daytime-YFFGkE3y4F8) - [Unsplash License](https://unsplash.com/license)
+* [Skateboard](img/img_skateboard.jpg) - Lukas Bato - [Source](https://unsplash.com/photos/brown-wooden-skateboard-Vbbn4xNBfnM) - [Unsplash License](https://unsplash.com/license)
 
 ### Animated
 
