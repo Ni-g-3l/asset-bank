@@ -14,9 +14,7 @@ Do not use this asset until licensing has been clarified.
 
 ## Geometry
 
-### Baked
-
-* [Hairy Monkey](geo/animated/geo_ani_hairy_monkey.abc) - Maxime Cots - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* [Hairy Monkey](geo/geo_hairy_monkey.abc) - Maxime Cots - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Images
 
@@ -69,6 +67,9 @@ Do not use this asset until licensing has been clarified.
 
 * [Language](music/music_dubstep_upbeat.mp3) - YUTY - [Source](https://www.jamendo.com/track/1403281/language) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * [Soul Hop Music](music/music_urban_hiphop.mp3) - SEVENNOTES - [Source](https://www.jamendo.com/track/2290117/soul-hop-music) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## Simulation 
+* [Camp Fire](sim/sim_campfire) - JangaFX - [Source](https://jangafx.com/software/embergen/download/free-vdb-animations) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Videos
 
