@@ -15,6 +15,7 @@ Do not use this asset until licensing has been clarified.
 ## Geometry
 
 * [Hairy Monkey](geo/geo_hairy_monkey.abc) - Maxime Cots - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* [Spray Paint](geo/geo_spray_paint/geo_spray_paint.obj) - Riley Queen - [Source](https://polyhaven.com/a/spray_paint_bottles_02) -  [CC0](https://polyhaven.com/license)
 
 ## Images
 
