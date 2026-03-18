@@ -15,8 +15,8 @@ Do not use this asset until licensing has been clarified.
 ## Geometry
 
 * [Hairy Monkey](geo/geo_hairy_monkey.abc) - Maxime Cots - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-* [Spray Paint](geo/geo_spray_paint/geo_spray_paint.obj) - Riley Queen - [Source](https://polyhaven.com/a/spray_paint_bottles_02) -  [CC0](https://polyhaven.com/license)
-
+* [Spray Paint](geo/geo_spray_paint/geo_spray_paint.obj) - Riley Queen - [Source](https://polyhaven.com/a/spray_paint_bottles_02) - [CC0](https://polyhaven.com/license)
+* [Gloves](geo/geo_glove/geo_glove.gltf) - Thomas Tull - [Source](https://3d.si.edu/object/3d/glove-used-mariano-rivera-new-york-yankees:e7e961e3-9bde-42b7-b618-534803259d4e) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ## Images
 
 * [Agen 327 Operation Barbershot - Official movie poster](img/img_agent_327_chair.png) - Blender Studio - [Source](https://studio.blender.org/projects/agent-327/59149f99bb3ea1398f73251b/?asset=3066) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

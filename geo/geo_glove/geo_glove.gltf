@@ -1,0 +1,142 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 96692,
+      "max": [
+        0.142383307218552,
+        0.126929402351379,
+        0.100178398191929
+      ],
+      "min": [
+        -0.142237305641174,
+        -0.126989796757698,
+        -0.100152999162674
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 96692,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 96692,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 450000,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "generator": "MeshSmith mesh conversion tool",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1160304,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1160304,
+      "byteOffset": 1160304,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 773536,
+      "byteOffset": 2320608,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1800000,
+      "byteOffset": 3094144,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 4894144,
+      "uri": "geo_glove.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "geo_glove-diffuse.jpg"
+    },
+    {
+      "uri": "geo_glove-occlusion.jpg"
+    },
+    {
+      "uri": "geo_glove-normals.jpg"
+    }
+  ],
+  "materials": [
+    {
+      "name": "default",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.100000001490116,
+        "roughnessFactor": 0.800000011920929
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "source": 0
+    },
+    {
+      "source": 1
+    },
+    {
+      "source": 2
+    }
+  ]
+}
