@@ -39,6 +39,28 @@ This structure may evolve over time as new test assets are added.
 
 ---
 
+## Scripts
+
+Utility scripts for generating test assets are located in `/scripts`.
+
+### `palette.v`
+
+Generates a palette preview PNG image from hex color codes.
+
+**Usage:**
+```
+v run scripts/palette.v <output.png> <color1> [color2 ...]
+```
+
+**Example:**
+```
+v run scripts/palette.v p.png #FF9300 #00FF00 #0000FF
+```
+
+This creates a horizontal swatch image (240px per color, 320px tall) with HEX labels beneath each block. Requires no external dependencies — uses V's built-in `stbi` module for PNG output.
+
+---
+
 ## Intended Use
 
 ✅ **Permitted Uses**
