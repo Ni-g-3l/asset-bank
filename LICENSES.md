@@ -44,8 +44,15 @@ Do not use this asset until licensing has been clarified.
 
 ### Sequences
 
-* [Playing Cards](img/sequences/playing_cards) - Volker Thimm -[Source](https://www.pexels.com/video/a-jack-of-clubs-card-and-poker-chips-on-a-gambling-table-15800853/) - [Pexels License](https://www.pexels.com/license/)
+* [Playing Cards](img/sequences/playing_cards) - Volker Thimm - [Source](https://www.pexels.com/video/a-jack-of-clubs-card-and-poker-chips-on-a-gambling-table-15800853/) - [Pexels License](https://www.pexels.com/license/)
 * [Ski Slope](img/sequences/playing_cards) - Adrien Jacta - [Source](https://www.pexels.com/video/ski-montagne-skier-piste-de-ski-4274798/) - [Pexels License](https://www.pexels.com/license/)
+
+### Pallette
+
+* [Low Poly](img/palettes/img_palette_low_poly.png) - Imphenzia - [Source](https://www.imphenzia.com/) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* [Dark](img/palettes/img_palette_dark.png) - Maxime Cots - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* [Light](img/palettes/img_palette_light.png) - Maxime Cots - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* [Orange](img/palettes/img_palette_orange.png) - Maxime Cots - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ### Misc
 
