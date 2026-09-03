@@ -71,6 +71,12 @@ Do not use this asset until licensing has been clarified.
 
 * [Archivo](misc/font_archivo) - Gatti & Omnibus-Type Team - [Source](https://www.omnibus-type.com/fonts/archivo/) - [SIL Open Font License, 1.1](https://openfontlicense.org/)
 
+## Text
+
+* [Cities](txt/cites.csv) - Florida State University - [Source](https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html) - [GNU LGPL](https://people.sc.fsu.edu/~jburkardt/txt/gnu_lgpl.txt)
+* [Example](txt/example.md) -  Alyson Silva - [Source](https://gist.github.com/allysonsilva/85fff14a22bbdf55485be947566cc09e) - [Unknown](#)
+* [This](txt/this.py) - Python/Cython - [Source](https://github.com/python/cpython/blob/main/Lib/this.py) - [PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2](https://github.com/python/cpython/tree/main?tab=License-1-ov-file)
+
 ## Musics
 
 * [Language](music/music_dubstep_upbeat.mp3) - YUTY - [Source](https://www.jamendo.com/track/1403281/language) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
